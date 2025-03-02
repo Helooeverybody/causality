@@ -1,4 +1,4 @@
-# Naive Enthusiastic Researchs - Causality
+# Naive Enthusiastic Research - Causality
 
 ![image](https://github.com/user-attachments/assets/b8145cad-76ae-4094-bec6-4e3629c3ee59)
 
@@ -109,8 +109,9 @@
     
       - [Book] Infinite-Dimensional Dynamical Systems
     
-    - #### Statistics & Probability
+    - #### Statistics & Probability Theory 
       - [Book] Theory of Multivariate Statistics [pdf](http://ndl.ethernet.edu.et/bitstream/123456789/88797/1/BilodeauBrenner1999%20Theory%20of%20Multivariate%20Statistics%20%28Springer%2C%201999%29%28308s%29.pdf)
+      - [Course notes] The course is based on [book Probability theory and example] from MIT and another version from Berkeley. 
     - #### Linear Algebra
       - General Linear Algebra (Gilbert Strang )from MIT [course](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/)  [simulation Learning](https://www.3blue1brown.com/topics/linear-algebra)
       - Advanced concepts in Linear Algebra and group, ring, fields, and pace theory in Algebra I, II [course](https://github.com/Helooeverybody/Naive-Enthusiastic_Researchs/tree/base-knowledge/courses/Linear%20Algebra)
