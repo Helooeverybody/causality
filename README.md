@@ -11,9 +11,9 @@
 
 - Application Causality Overview [CausalML](https://arxiv.org/pdf/2206.15475)
 
-- Important Overview in Begining Development of Causality in Deep Learning [Element of Causal Inference- Jonas Peter, Dominik Jazning, Bernhard Scholkopf](https://library.oapen.org/bitstream/id/056a11be-ce3a-44b9-8987-a6c68fce8d9b/11283.pdf)
+- Overview of Early Development of Causality in Deep Learning [Element of Causal Inference- Jonas Peter, Dominik Jazning, Bernhard Scholkopf](https://library.oapen.org/bitstream/id/056a11be-ce3a-44b9-8987-a6c68fce8d9b/11283.pdf)
 
-- Semi-Supervised Learning Book [Book](https://www.molgen.mpg.de/3659531/MITPress--SemiSupervised-Learning.pdf)
+- Semi-Supervised Learning Book- Max Plank Institute [Book](https://www.molgen.mpg.de/3659531/MITPress--SemiSupervised-Learning.pdf)
 
 
 ## Causal Representation
@@ -102,34 +102,34 @@
 
 ## Important foundations
 
-### Maths
+  - ### Maths
+  
+    - #### Functional Analysis
+    
+      - [Book] Infinite-Dimensional Dynamical Systems
+    
+    - #### Statistics & Probability
+      - [Book] Theory of Multivariate Statistics [pdf](http://ndl.ethernet.edu.et/bitstream/123456789/88797/1/BilodeauBrenner1999%20Theory%20of%20Multivariate%20Statistics%20%28Springer%2C%201999%29%28308s%29.pdf)
+    - #### Linear Algebra
+    
+    - #### Probabilistic ML Theory
 
-#### Functional Analysis
+  - ### Traditional DL Theory
 
-- [Book] Infinite-Dimensional Dynamical Systems
+  - ### Optimization
 
-#### Statistics & Probability
-- [Book] Theory of Multivariate Statistics [pdf](http://ndl.ethernet.edu.et/bitstream/123456789/88797/1/BilodeauBrenner1999%20Theory%20of%20Multivariate%20Statistics%20%28Springer%2C%201999%29%28308s%29.pdf)
-#### Linear Algebra
+  - ### Information Theory
+    - [Note] Statistics and Information Theory- Standford [lecture note](https://web.stanford.edu/class/stats311/lecture-notes.pdf)
 
-#### Probabilistic ML Theory
+  - ### Manifold Theory
+    - [Paper] Independent Mechanism Analysis and the Manifold Hypothesis [pdf](https://arxiv.org/pdf/2312.13438)
+  - ### Kernel Theory 
 
-### Traditional DL Theory
+- ### Physics
 
-### Optimization
+  - #### Basic Quantum Physics
 
-### Information Theory
-- [Note] Statistics and Information Theory- Standford [lecture note](https://web.stanford.edu/class/stats311/lecture-notes.pdf)
-
-### Manifold Theory
-- [Paper] Independent Mechanism Analysis and the Manifold Hypothesis [pdf](https://arxiv.org/pdf/2312.13438)
-### Kernel Theory 
-
-### Physics
-
-#### Basic Quantum Physics
-
-#### Statistical Physics
+  - #### Statistical Physics
 
 
 ## Very Crucial Courses
