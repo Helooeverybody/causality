@@ -1,0 +1,7 @@
+lecture notes course from Standford : 
+https://ermongroup.github.io/cs228-notes/
+
+
+lecture slide and lecture video from another course :
+
+https://uni-tuebingen.de/en/180804
