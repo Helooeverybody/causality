@@ -95,7 +95,7 @@
 - [Survey] A Primer on Deep Learning for Causal Inference [pdf](https://arxiv.org/pdf/2110.04442)
 
 ## Generative AI-Latent space
-  - [Material]()
+  - [Material](https://github.com/Helooeverybody/Naive-Enthusiastic_Researchs/tree/base-knowledge/Deep_Generative_Model)
 
 
 
