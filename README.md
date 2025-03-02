@@ -99,7 +99,8 @@
 
 
 ## Graphical Model
-
+  - [Course video](https://uni-tuebingen.de/en/180804) ]
+  - [Book]()
 
 ## Important foundations
 
@@ -129,6 +130,7 @@
      - Two [Courses](https://github.com/Helooeverybody/Naive-Enthusiastic_Researchs/tree/base-knowledge/courses/Optimization) in Convex Optimization from Standford based on  [Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) 
 
   - ### Information Theory
+    - [Course](https://ocw.mit.edu/courses/6-441-information-theory-spring-2016/pages/syllabus/) in information theory from MIT.
     - [Lecture Notes] Statistics and Information Theory- Standford [pdf](https://web.stanford.edu/class/stats311/lecture-notes.pdf)
 
   - ### Manifold Theory
