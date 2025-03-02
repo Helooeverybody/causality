@@ -1,11 +1,24 @@
 # Naive Enthusiastic Researchs - Causality
 
-![image](https://github.com/user-attachments/assets/9f95c28c-5b85-46b3-a0c1-36553c6a2aee)
+![image](https://github.com/user-attachments/assets/963557fe-3453-4b53-a802-f973e5d70d4f)
+
+
+## Overview:
+Causality- Judea Pearl [book](https://projects.illc.uva.nl/cil/uploaded_files/inlineitem/Pearl_2009_Causality.pdf)
+
+Basic Causal Mechanism - ETH Zurich [link](https://people.math.ethz.ch/~jopeters/jonas_files/scriptChapter1-4.pdf)
+
+Application Overview [Github](https://appliedcausalinference.github.io/aci_book/01-intro-to-causality.html)
+
+Application Causality Overview [CausalML](https://arxiv.org/pdf/2206.15475)
+
+Important Overview in Begining Development of Causality in Deep Learning [Element of Causal Inference- Jonas Peter, Dominik Jazning, Bernhard Scholkopf](https://library.oapen.org/bitstream/id/056a11be-ce3a-44b9-8987-a6c68fce8d9b/11283.pdf)
+
 
 ## Causal Representation
 
 ### Papers
-## ORAL
+#### ORAL
 [ORAL][NeurIPS-2024] Do Finetti: On Causal Effects for Exchangeable Data [paper](https://neurips.cc/virtual/2024/oral/97996)
 
 [ORAL][NeurIPS-2024] Identification and Estimation of the Bi-Directional MR with Some Invalid Instruments [paper](https://neurips.cc/virtual/2024/oral/97977)
@@ -60,27 +73,33 @@
 
 [ORAL][NeurIPS-2020] Causal Imitation Learning With Unobserved Confounders [paper](https://proceedings.neurips.cc/paper/2020/hash/8fdd149fcaa7058caccc9c4ad5b0d89a-Abstract.html)
 
+#### Accepted
+
+
+
 ## Causal Discovery
 
 ## Causal Estimation
 
-## Generative AI- Latent space
+## Generative AI-Latent space
 
 ## Graphical Model
 
 ## Causal Inference
 
-## Mechanism 
 
-### Functional Analysis
 
 ## Important foundations
 
-### Statistics & Probability
+### Maths
 
-### Linear Algebra
+#### Functional Analysis
 
-### Probabilistic ML Theory
+#### Statistics & Probability
+
+#### Linear Algebra
+
+#### Probabilistic ML Theory
 
 ### Traditional DL Theory
 
@@ -97,4 +116,9 @@
 #### Basic Quantum Physics
 
 #### Statistical Physics
+
+## Very Crucial Courses
+
+Maths and Physics course from MIT, Standford: [link](https://web.stanford.edu/~lindrew/notes.html)
+
 
