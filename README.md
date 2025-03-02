@@ -112,7 +112,7 @@
     - #### Statistics & Probability
       - [Book] Theory of Multivariate Statistics [pdf](http://ndl.ethernet.edu.et/bitstream/123456789/88797/1/BilodeauBrenner1999%20Theory%20of%20Multivariate%20Statistics%20%28Springer%2C%201999%29%28308s%29.pdf)
     - #### Linear Algebra
-      - General Linear Algebra (Gilbert Strang )from MIT [course][simulation space](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/,https://www.3blue1brown.com/topics/linear-algebra)   
+      - General Linear Algebra (Gilbert Strang )from MIT [course](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/)[simulation Learning](https://www.3blue1brown.com/topics/linear-algebra)  
     
   - ### Probabilistic ML Theory
    
