@@ -106,7 +106,7 @@
   - ### Maths
   
     - #### Functional Analysis and Calculus
-       - [Course](https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/video_galleries/lecture-videos/_) Functional Analysis From MIT (note that you requirely have a background in Multivariable Calculus and Mathematic Analysis, which contained in this link)  
+       - [Course](https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/video_galleries/lecture-videos/) Introduction to Functional Analysis From MIT (note that you requirely have a background in Multivariable Calculus and Mathematic Analysis, which is contained in this link)  
     
       - [Book] Infinite-Dimensional Dynamical Systems
     
