@@ -105,13 +105,14 @@
 
   - ### Maths
   
-    - #### Functional Analysis
+    - #### Functional Analysis and Calculus
+       - [Course](//ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/pages/syllabus/ ) Functional Analysis From MIT (note that you requirely have a background in Multivariable Calculus and Mathematic Analysis which contained in this link)  
     
       - [Book] Infinite-Dimensional Dynamical Systems
     
     - #### Statistics & Probability Theory 
       - [Book] Theory of Multivariate Statistics [pdf](http://ndl.ethernet.edu.et/bitstream/123456789/88797/1/BilodeauBrenner1999%20Theory%20of%20Multivariate%20Statistics%20%28Springer%2C%201999%29%28308s%29.pdf)
-      - [Course notes](https://github.com/Helooeverybody/Naive-Enthusiastic_Researchs/tree/base-knowledge/courses/probability%20and%20statistic%20theory) The course is based on [book Probability theory and example] from MIT and another version from Berkeley. 
+      - [Course notes](https://github.com/Helooeverybody/Naive-Enthusiastic_Researchs/tree/base-knowledge/courses/probability%20and%20statistic%20theory) The course is based on [Probability theory and example](https://services.math.duke.edu/%7Ertd/PTE/PTE5_011119.pdf) from MIT and another version from Berkeley. 
     - #### Linear Algebra
       - General Linear Algebra (Gilbert Strang )from MIT [course](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/)  [simulation Learning](https://www.3blue1brown.com/topics/linear-algebra)
       - Advanced concepts in Linear Algebra and group, ring, fields, and pace theory in Algebra I, II [course](https://github.com/Helooeverybody/Naive-Enthusiastic_Researchs/tree/base-knowledge/courses/Linear%20Algebra)
