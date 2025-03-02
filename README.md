@@ -95,12 +95,14 @@
 - [Survey] A Primer on Deep Learning for Causal Inference [pdf](https://arxiv.org/pdf/2110.04442)
 
 ## Generative AI-Latent space
+  - [Material]()
 
 
 
 ## Graphical Model
   - [Course video](https://uni-tuebingen.de/en/180804) ]
-  - [Book]()
+  - [Book](https://github.com/Helooeverybody/Naive-Enthusiastic_Researchs/tree/base-knowledge/courses/Probabilistic_Graphic_Model/Book)
+  - [course notes](https://web.stanford.edu/~lindrew/cs228.pdf)
 
 ## Important foundations
 
