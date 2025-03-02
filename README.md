@@ -126,7 +126,7 @@
     - [Book] Pattern Recognition and Machine Learning [pdf](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
   - ### Optimization
-     - Two [Courses] in Convex Optimization from Standford based on  [Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) 
+     - Two [Courses](https://github.com/Helooeverybody/Naive-Enthusiastic_Researchs/tree/base-knowledge/courses/Optimization) in Convex Optimization from Standford based on  [Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) 
 
   - ### Information Theory
     - [Lecture Notes] Statistics and Information Theory- Standford [pdf](https://web.stanford.edu/class/stats311/lecture-notes.pdf)
