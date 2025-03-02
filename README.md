@@ -75,12 +75,13 @@
   - [ORAL][NeurIPS-2020] Causal Imitation Learning With Unobserved Confounders [paper](https://proceedings.neurips.cc/paper/2020/hash/8fdd149fcaa7058caccc9c4ad5b0d89a-Abstract.html)
 
 - #### Accepted
-
-
-
+  - Identifiability of latent representation( w/o Causality)
+    - [] 
+  - Causal-structure Identifiability of latent representation
+    - []
 ## Causal Discovery
 
-- [Survey] A Survey on Causal Discovery: Theory and Algorithm  [pdf](https://arxiv.org/pdf/2305.10032)
+- [Survey] A Survey on Causal Discovery: Theory and Algorithms [pdf](https://arxiv.org/pdf/2305.10032)
 
 ## Causal Estimation
 
@@ -91,7 +92,7 @@
 
 - [Survey] A Brief Introduction to Causal Inference in Machine Learning-NewYork University [pdf](https://arxiv.org/pdf/2405.08793)
 
-- [Survey] A Primer on Deep Learning for Causal Inference- Survey [pdf](https://arxiv.org/pdf/2110.04442)
+- [Survey] A Primer on Deep Learning for Causal Inference [pdf](https://arxiv.org/pdf/2110.04442)
 
 ## Generative AI-Latent space
 
@@ -112,14 +113,18 @@
       - [Book] Theory of Multivariate Statistics [pdf](http://ndl.ethernet.edu.et/bitstream/123456789/88797/1/BilodeauBrenner1999%20Theory%20of%20Multivariate%20Statistics%20%28Springer%2C%201999%29%28308s%29.pdf)
     - #### Linear Algebra
     
-    - #### Probabilistic ML Theory
+  - ### Probabilistic ML Theory
+   
+    - [Book] The Elements of Statistical Learning [pdf](https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf)
 
-  - ### Traditional DL Theory
+  - ### Traditional DL, ML Theory
+    - [Book] Understanding Machine Learning: From Theory To Algorithms [pdf](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) 
+    - [Book] Pattern Recognition and Machine Learning [pdf](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
   - ### Optimization
 
   - ### Information Theory
-    - [Note] Statistics and Information Theory- Standford [lecture note](https://web.stanford.edu/class/stats311/lecture-notes.pdf)
+    - [Lecture Notes] Statistics and Information Theory- Standford [pdf](https://web.stanford.edu/class/stats311/lecture-notes.pdf)
 
   - ### Manifold Theory
     - [Paper] Independent Mechanism Analysis and the Manifold Hypothesis [pdf](https://arxiv.org/pdf/2312.13438)
