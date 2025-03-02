@@ -100,7 +100,7 @@
 
 
 ## Graphical Model
-  - [Course Video](https://uni-tuebingen.de/en/180804) ]
+  - [Course Video](https://uni-tuebingen.de/en/180804) 
   - [Book](https://github.com/Helooeverybody/Naive-Enthusiastic_Researchs/tree/base-knowledge/courses/Probabilistic_Graphic_Model/Book)
   - [Course Notes](https://web.stanford.edu/~lindrew/cs228.pdf)
 
