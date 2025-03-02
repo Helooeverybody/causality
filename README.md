@@ -100,9 +100,9 @@
 
 
 ## Graphical Model
-  - [Course video](https://uni-tuebingen.de/en/180804) ]
+  - [Course Video](https://uni-tuebingen.de/en/180804) ]
   - [Book](https://github.com/Helooeverybody/Naive-Enthusiastic_Researchs/tree/base-knowledge/courses/Probabilistic_Graphic_Model/Book)
-  - [course notes](https://web.stanford.edu/~lindrew/cs228.pdf)
+  - [Course Notes](https://web.stanford.edu/~lindrew/cs228.pdf)
 
 ## Important foundations
 
@@ -117,7 +117,7 @@
       - [Book] Theory of Multivariate Statistics [pdf](http://ndl.ethernet.edu.et/bitstream/123456789/88797/1/BilodeauBrenner1999%20Theory%20of%20Multivariate%20Statistics%20%28Springer%2C%201999%29%28308s%29.pdf)
       - [Course notes](https://github.com/Helooeverybody/Naive-Enthusiastic_Researchs/tree/base-knowledge/courses/probability%20and%20statistic%20theory) The course is based on [Probability theory and example](https://services.math.duke.edu/%7Ertd/PTE/PTE5_011119.pdf) from MIT and another version from Berkeley. 
     - #### Linear Algebra
-      - General Linear Algebra (Gilbert Strang )from MIT [course](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/)  [simulation Learning](https://www.3blue1brown.com/topics/linear-algebra)
+      - General Linear Algebra (Gilbert Strang )from MIT [course](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/)  [Simulation Learning](https://www.3blue1brown.com/topics/linear-algebra)
       - Advanced concepts in Linear Algebra and group, ring, fields, and pace theory in Algebra I, II [course](https://github.com/Helooeverybody/Naive-Enthusiastic_Researchs/tree/base-knowledge/courses/Linear%20Algebra)
     
   - ### Probabilistic ML Theory
