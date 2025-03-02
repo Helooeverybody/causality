@@ -1,7 +1,6 @@
 # Naive Enthusiastic Researchs - Causality
 
-![image](https://github.com/user-attachments/assets/963557fe-3453-4b53-a802-f973e5d70d4f)
-
+![image](https://github.com/user-attachments/assets/b8145cad-76ae-4094-bec6-4e3629c3ee59)
 
 ## Overview:
 Causality- Judea Pearl [book](https://projects.illc.uva.nl/cil/uploaded_files/inlineitem/Pearl_2009_Causality.pdf)
@@ -13,6 +12,8 @@ Application Overview [Github](https://appliedcausalinference.github.io/aci_book/
 Application Causality Overview [CausalML](https://arxiv.org/pdf/2206.15475)
 
 Important Overview in Begining Development of Causality in Deep Learning [Element of Causal Inference- Jonas Peter, Dominik Jazning, Bernhard Scholkopf](https://library.oapen.org/bitstream/id/056a11be-ce3a-44b9-8987-a6c68fce8d9b/11283.pdf)
+
+Semi-Supervised Learning Book [Book](https://www.molgen.mpg.de/3659531/MITPress--SemiSupervised-Learning.pdf)
 
 
 ## Causal Representation
@@ -79,14 +80,24 @@ Important Overview in Begining Development of Causality in Deep Learning [Elemen
 
 ## Causal Discovery
 
+[Survey] A Survey on Causal Discovery: Theory and Algorithm  [pdf](https://arxiv.org/pdf/2305.10032)
+
 ## Causal Estimation
+
+[Survey] Causal Effect Estimation: Recent Advances, Challenges, and Opportunities [pdf](https://arxiv.org/pdf/2302.00848)
+
+## Causal Inference
+[Book] Causal Inference: A Statistical Learning Approach-Standford [pdf](https://web.stanford.edu/~swager/causal_inf_book.pdf)
+
+[Survey] A Brief Introduction to Causal Inference in Machine Learning-NewYork University [pdf](https://arxiv.org/pdf/2405.08793)
+
+[Survey] A Primer on Deep Learning for Causal Inference- Survey [pdf](https://arxiv.org/pdf/2110.04442)
 
 ## Generative AI-Latent space
 
+
+
 ## Graphical Model
-
-## Causal Inference
-
 
 
 ## Important foundations
@@ -95,8 +106,10 @@ Important Overview in Begining Development of Causality in Deep Learning [Elemen
 
 #### Functional Analysis
 
-#### Statistics & Probability
+[Book] Infinite-Dimensional Dynamical Systems
 
+#### Statistics & Probability
+Theory of Multivariate Statistics [pdf](http://ndl.ethernet.edu.et/bitstream/123456789/88797/1/BilodeauBrenner1999%20Theory%20of%20Multivariate%20Statistics%20%28Springer%2C%201999%29%28308s%29.pdf)
 #### Linear Algebra
 
 #### Probabilistic ML Theory
@@ -105,10 +118,11 @@ Important Overview in Begining Development of Causality in Deep Learning [Elemen
 
 ### Optimization
 
-### Informatic Theory
+### Information Theory
+Statistics and Information Theory- Standford [lecture note](https://web.stanford.edu/class/stats311/lecture-notes.pdf)
 
 ### Manifold Theory
-
+Independent Mechanism Analysis and the Manifold Hypothesis [pdf](https://arxiv.org/pdf/2312.13438)
 ### Kernel Theory 
 
 ### Physics
@@ -116,6 +130,7 @@ Important Overview in Begining Development of Causality in Deep Learning [Elemen
 #### Basic Quantum Physics
 
 #### Statistical Physics
+
 
 ## Very Crucial Courses
 
