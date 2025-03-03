@@ -82,6 +82,16 @@
 ## Causal Discovery
 
 - [Survey] A Survey on Causal Discovery: Theory and Algorithms [pdf](https://arxiv.org/pdf/2305.10032)
+- Differentiable Causal Discovery from Interventional Data [paper](https://papers.nips.cc/paper_files/paper/2020/file/f8b7aa3a0d349d9562b424160ad18612-Paper.pdf)
+- Characterization and Greedy Learning of Interventional Markov Equivalence Classes of Directed Acyclic Graphs [paper](https://www.jmlr.org/papers/volume13/hauser12a/hauser12a.pdf)
+- Causal Discovery from Soft Interventions with Unknown Targets: Characterization and Learning [paper](https://proceedings.neurips.cc/paper/2020/file/6cd9313ed34ef58bad3fdd504355e72c-Paper.pdf)
+- Joint Causal Inference from Multiple Contexts [paper](https://jmlr.org/papers/volume21/17-123/17-123.pdf)
+- DirectLiNGAM: A Direct Method for Learning a Linear Non-Gaussian Structural Equation Model [paper](https://www.jmlr.org/papers/volume12/shimizu11a/shimizu11a.pdf)
+- CONSISTENCY GUARANTEES FOR GREEDY PERMUTATION-BASED CAUSAL INFERENCE ALGORITHMS [paper](https://arxiv.org/pdf/1702.03530)
+- Permutation-Based Causal Structure Learning with Unknown Intervention Targets [paper](https://proceedings.mlr.press/v124/squires20a/squires20a.pdf)
+- Probabilistic latent variable models for distinguishing between cause and effect [paper](https://papers.nips.cc/paper_files/paper/2010/file/c850371fda6892fbfd1c5a5b457e5777-Paper.pdf)
+- DAGs with NO TEARS: Continuous Optimization for Structure Learning [paper](https://proceedings.neurips.cc/paper_files/paper/2018/file/e347c51419ffb23ca3fd5050202f9c3d-Paper.pdf)
+
 
 ## Causal Estimation
 
