@@ -155,7 +155,9 @@
 
 ### Few-shot learning(CV)
 
-### Meta-learning
+### Meta learning
+
+### Contrastive learning
 
 ### Reinforcement learning
 
