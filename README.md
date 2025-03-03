@@ -151,3 +151,12 @@
 - [Lecture Notes] Maths and Physics course from MIT, Standford: [link](https://web.stanford.edu/~lindrew/notes.html)
 
 
+## Other domains
+
+### Few-shot learning(CV)
+
+### Meta-learning
+
+### Reinforcement learning
+
+
