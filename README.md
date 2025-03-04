@@ -15,6 +15,8 @@
 
 - Semi-Supervised Learning Book- Max Plank Institute [Book](https://www.molgen.mpg.de/3659531/MITPress--SemiSupervised-Learning.pdf)
 
+- [Course] [Causality-Jonas Peter](https://www.youtube.com/watch?v=zvrcyqcN9Wo&list=PLNSbiazKPSj-GCffW_eA9hhxcdTSJsg6d), [slide](https://learning.mpi-sws.org/mlss2016/slides/cadizJonas.pdf)
+
 
 ## Causal Representation
 
@@ -127,10 +129,16 @@
     
     - #### Statistics & Probability Theory 
       - [Book] Theory of Multivariate Statistics [pdf](http://ndl.ethernet.edu.et/bitstream/123456789/88797/1/BilodeauBrenner1999%20Theory%20of%20Multivariate%20Statistics%20%28Springer%2C%201999%29%28308s%29.pdf)
-      - [Course notes](https://github.com/Helooeverybody/Naive-Enthusiastic_Researchs/tree/base-knowledge/courses/probability%20and%20statistic%20theory) The course is based on [Probability theory and example](https://services.math.duke.edu/%7Ertd/PTE/PTE5_011119.pdf) from MIT and another version from Berkeley. 
+      - [Course notes](https://github.com/Helooeverybody/Naive-Enthusiastic_Researchs/tree/base-knowledge/courses/probability%20and%20statistic%20theory) The course is based on [Probability theory and example](https://services.math.duke.edu/%7Ertd/PTE/PTE5_011119.pdf) from MIT and another version from Berkeley.
+      - [Statistics for Applications](https://ocw.mit.edu/courses/18-443-statistics-for-applications-spring-2015/pages/lecture-notes/),[Mathematical Statistics](https://ocw.mit.edu/courses/18-655-mathematical-statistics-spring-2016/pages/lecture-notes/), [High-Dimensional Statistics](https://ocw.mit.edu/courses/18-s997-high-dimensional-statistics-spring-2015/pages/lecture-notes/), [Theory of Probability](https://ocw.mit.edu/courses/18-175-theory-of-probability-spring-2014/pages/lecture-slides/)
+     
+      - [Statistical Mechanics I: Statistical Mechanics of Particles](https://ocw.mit.edu/courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/), [Statistical Mechanics II: Statistical Physics of Fields](https://ocw.mit.edu/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/)
+      
     - #### Linear Algebra
-      - General Linear Algebra (Gilbert Strang )from MIT [course](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/)  [Simulation Learning](https://www.3blue1brown.com/topics/linear-algebra)
+      - General Linear Algebra (Gilbert Strang )from MIT [course](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/)[MIT course(~ same)[https://ocw.mit.edu/courses/18-700-linear-algebra-fall-2013/pages/readings/]  [Simulation Learning](https://www.3blue1brown.com/topics/linear-algebra)
       - Advanced concepts in Linear Algebra and group, ring, fields, and pace theory in Algebra I, II [course](https://github.com/Helooeverybody/Naive-Enthusiastic_Researchs/tree/base-knowledge/courses/Linear%20Algebra)
+     
+      - 
     
   - ### Probabilistic ML Theory
    
@@ -140,6 +148,8 @@
     - [Book] Understanding Machine Learning: From Theory To Algorithms [pdf](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) 
     - [Book] Pattern Recognition and Machine Learning [pdf](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
+    - [Course] [Mathematics for Machine Learning](https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/pages/lecture-notes/),[Statistical Learning Theory and Applications](https://ocw.mit.edu/courses/9-520-statistical-learning-theory-and-applications-spring-2003/pages/lecture-notes/)
+    - 
   - ### Optimization
      - Two [Courses](https://github.com/Helooeverybody/Naive-Enthusiastic_Researchs/tree/base-knowledge/courses/Optimization) in Convex Optimization from Standford based on  [Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) 
 
