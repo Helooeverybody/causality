@@ -133,6 +133,7 @@
       - [Statistics for Applications](https://ocw.mit.edu/courses/18-443-statistics-for-applications-spring-2015/pages/lecture-notes/),[Mathematical Statistics](https://ocw.mit.edu/courses/18-655-mathematical-statistics-spring-2016/pages/lecture-notes/), [High-Dimensional Statistics](https://ocw.mit.edu/courses/18-s997-high-dimensional-statistics-spring-2015/pages/lecture-notes/), [Theory of Probability](https://ocw.mit.edu/courses/18-175-theory-of-probability-spring-2014/pages/lecture-slides/)
      
       - [Statistical Mechanics I: Statistical Mechanics of Particles](https://ocw.mit.edu/courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/), [Statistical Mechanics II: Statistical Physics of Fields](https://ocw.mit.edu/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/)
+      - 
       
     - #### Linear Algebra
       - General Linear Algebra (Gilbert Strang )from MIT [course](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/)[MIT course(~ same)[https://ocw.mit.edu/courses/18-700-linear-algebra-fall-2013/pages/readings/]  [Simulation Learning](https://www.3blue1brown.com/topics/linear-algebra)
@@ -148,7 +149,7 @@
     - [Book] Understanding Machine Learning: From Theory To Algorithms [pdf](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) 
     - [Book] Pattern Recognition and Machine Learning [pdf](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
-    - [Course] [Mathematics for Machine Learning](https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/pages/lecture-notes/),[Statistical Learning Theory and Applications](https://ocw.mit.edu/courses/9-520-statistical-learning-theory-and-applications-spring-2003/pages/lecture-notes/)
+    - [Course] [Mathematics for Machine Learning](https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/pages/lecture-notes/),[Statistical Learning Theory and Applications](https://ocw.mit.edu/courses/9-520-statistical-learning-theory-and-applications-spring-2003/pages/lecture-notes/), [Statistical Learning Theory and Applications](https://ocw.mit.edu/courses/9-520-statistical-learning-theory-and-applications-spring-2003/pages/lecture-notes/)
     - 
   - ### Optimization
      - Two [Courses](https://github.com/Helooeverybody/Naive-Enthusiastic_Researchs/tree/base-knowledge/courses/Optimization) in Convex Optimization from Standford based on  [Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) 
