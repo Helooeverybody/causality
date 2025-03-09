@@ -138,8 +138,8 @@
     - #### Linear Algebra
       - General Linear Algebra (Gilbert Strang )from MIT [course](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/)[MIT course(~ same)[https://ocw.mit.edu/courses/18-700-linear-algebra-fall-2013/pages/readings/]  [Simulation Learning](https://www.3blue1brown.com/topics/linear-algebra)
       - Advanced concepts in Linear Algebra and group, ring, fields, and pace theory in Algebra I, II [course](https://github.com/Helooeverybody/Naive-Enthusiastic_Researchs/tree/base-knowledge/courses/Linear%20Algebra)
-     
-      - 
+       - [Matrix Calculus for Machine Learning and Beyond](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/pages/lecture-notes/)
+        
     
   - ### Probabilistic ML Theory
    
