@@ -162,23 +162,11 @@
     - [Paper] Independent Mechanism Analysis and the Manifold Hypothesis [pdf](https://arxiv.org/pdf/2312.13438)
   - ### Kernel Theory 
 
-- ### Physics
-
-  - #### Basic Quantum Physics
-
-  - #### Statistical Physics
-
-
 ## Very Crucial Courses
 
 - [Lecture Notes] Maths and Physics course from MIT, Standford: [link](https://web.stanford.edu/~lindrew/notes.html)
 
 
-## Other domains
-
-### Few-shot learning(CV)
-
-### Meta learning
 
 ### Contrastive learning
 
